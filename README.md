@@ -37,7 +37,8 @@ If using cuda:
 else:  
   `conda install pytorch cpuonly -c pytorch`  
 `conda install -c anaconda scipy`  
-`conda install -c anaconda scikit-learn`  
+`conda install -c anaconda scikit-learn` 
+`conda install -c conda-forge tensorboardx`
 `pip install pytorch-transformers`  
 3. Clone repo.
 `git clone https://github.com/ThilinaRajapakse/pytorch-transformers-classification.git`
