@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# data and outputs
+data/
+runs/
+yelp_outputs/
+
+args.json
